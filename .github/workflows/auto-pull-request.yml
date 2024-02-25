@@ -47,10 +47,10 @@ jobs:
 
             Github Actions Status:
 
-            [![Github Pull Request](https://github.com/SoraEase/sora-prompt-zh/actions/workflows/auto-pull-request.yml/badge.svg)](https://github.com/SoraEase/sora-prompt-zh/actions/workflows/aotu-pull-request.yml)
+            [![Github Pull Request](https://github.com/SoraEase/sora-prompt/actions/workflows/auto-pull-request.yml/badge.svg)](https://github.com/SoraEase/sora-prompt/actions/workflows/aotu-pull-request.yml)
             
             This is an automated PR. 
-            <sub>[workflow](https://github.com/SoraEase/sora-prompt-zh/blob/main/.github/workflows/pull-request.yml).</sub>
+            <sub>[workflow](https://github.com/SoraEase/sora-prompt/blob/main/.github/workflows/pull-request.yml).</sub>
           labels: |
             kind/documentation
             enhancement
