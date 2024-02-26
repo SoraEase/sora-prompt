@@ -1,6 +1,6 @@
 # sora-prompt
 
-**Copyright: [SoraEase](https://github.com/SoraEase/sora-prompt), please indicate the source when forwarding**
+**Copyright: [SoraEase](https://github.com/SoraEase/sora-prompt), please indicate the source when forwarding.**
 
 Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. Structured Prompt | Sora Collection of prompt words, a repository designed to inspire AI-driven video creation using Sora.
 
