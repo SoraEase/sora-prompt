@@ -1,4 +1,4 @@
-name: Update README with latest blog posts
+name: auto push
 
 on:
   schedule: # Run workflow automatically
