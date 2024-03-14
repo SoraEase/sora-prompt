@@ -1,5 +1,10 @@
 # sora-prompt
 
+<p align="center">
+    <a href="https://github.com/SoraEase/sora-prompt/blob/main/README.md"><b>English</b></a> •
+    <a href="https://github.com/SoraEase/sora-prompt-zh/blob/main/README.md"><b>中文</b></a>
+</p>
+
 **Copyright: [SoraEase](https://github.com/SoraEase/sora-prompt), please indicate the source when forwarding.**
 
 Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. Structured Prompt | Sora Collection of prompt words, a repository designed to inspire AI-driven video creation using Sora.
