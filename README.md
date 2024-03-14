@@ -6,6 +6,8 @@ Sora Prompt Collection, a repository dedicated to inspiring AI-driven video crea
 
 [Sora | Sora](https://openai.com/sora) is an AI model that can create realistic and imaginative scenes from OpenAI's text instructions. OpenAI is teaching AI to understand and simulate the physical world in motion, with the goal of training models to help people solve problems that require real-world interaction.
 
+If you are a sora learner and want to get the latest sora consulting and related development projects, as well as SORA-related open source projects,Here [awesome-sora](https://github.com/awesome-sora/awesome-sora) provides sora related sora English guide, instruction guides, application development guide, select resource list,Sora Developer selection tool framework.
+
 **Sola offers the following features:**
 
 + text to video
